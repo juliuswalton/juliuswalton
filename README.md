@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=julius-walton&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="julius-walton" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julius-walton&show_icons=true&theme=tokyonight&locale=en" alt="julius-walton" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julius-walton&" alt="julius-walton" /></p>
