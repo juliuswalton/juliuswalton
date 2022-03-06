@@ -1,5 +1,5 @@
 
-
+<img src="https://github.com/Julius-Walton/Julius-Walton/blob/main/profile%20banner.png" >
 
 - 🎓 I graduated from the College of Charleston in 2021 with a major in Computer Science and a minor in Japanese Studies
 
