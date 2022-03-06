@@ -1,6 +1,7 @@
 
-<img src="https://github.com/Julius-Walton/Julius-Walton/blob/main/profile%20banner.png" >
+![Header](https://github.com/Julius-Walton/Julius-Walton/blob/main/profile%20banner.png)
 
+# Hey there! 
 - 🎓 I graduated from the College of Charleston in 2021 with a major in Computer Science and a minor in Japanese Studies
 
 - 🌱 I’m currently working on **100 days of code** and I made a blog to share my progress. [**Come check it out!**](https://julius-walton.github.io/)
