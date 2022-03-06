@@ -1,4 +1,5 @@
-![MasterHead](https://github.com/Julius-Walton/Julius-Walton/blob/main/download.png?raw=true)
+
+
 
 - 🎓 I graduated from the College of Charleston in 2021 with a major in Computer Science and a minor in Japanese Studies
 
