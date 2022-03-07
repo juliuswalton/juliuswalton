@@ -27,10 +27,10 @@ I'm currently working on the [100 days of code challenge](https://www.100daysofc
 
 ## ⌨️ Project Showcase
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=julius-walton&repo=USACE-Jetties&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=julius-walton&repo=USACE-Jetties&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=julius-walton&repo=CirdlesWebUI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=julius-walton&repo=CirdlesWebUI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
  
 
