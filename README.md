@@ -1,25 +1,50 @@
 
 ![Header](https://github.com/Julius-Walton/Julius-Walton/blob/main/profile%20banner.png)
 
-# Hey there! 
-- 🎓 I graduated from the College of Charleston in 2021 with a major in Computer Science and a minor in Japanese Studies
+# Hey there! <img src="https://github.com/Julius-Walton/Julius-Walton/blob/main/wave%20dog.gif?raw=true" width="100px">
+My name is Julius Walton and I'm a software engineer/fullstack enginner. I'm currently living in Columbia, SC and work for Capgemini. You can find me on [![LinkedIn][3.2]][3] or on [![Instagram][1.2]][1]
 
-- 🌱 I’m currently working on **100 days of code** and I made a blog to share my progress. [**Come check it out!**](https://julius-walton.github.io/)
-<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/HV0tHmPREaD0sIixmg/200.gif">
+I'm currently working on the [100 days of code challenge](https://www.100daysofcode.com/) and made a blog about it. [**Come check it out!**](https://julius-walton.github.io/)
 
-- 📫 How to reach me **juliuswalton7901@gmail.com**
 
-- ⚡ Fun fact **I love to play piano and cook**
+## 👾 Tools & Technologies
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/julius-walton-10a2a714a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/julius-walton-10a2a714a/" height="30" width="40" /></a>
-<a href="https://instagram.com/shios_os" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shios_os" height="30" width="40" /></a>
-</p>
+## 🧮 GitHub Stats
+<a href="https://github.com/Julius-Walton">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julius-Walton&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/Julius-Walton">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julius-walton&theme=dark" alt="julius-walton" />
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+## ⌨️ Project Showcase
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=julius-walton&repo=USACE-Jetties&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=julius-walton&repo=CirdlesWebUI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+ 
 
-<p><img align="left" width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=julius-walton&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="julius-walton" /></p>
+<!-- icons -->
+[1.2]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
-<p><img align="right" width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=julius-walton&" alt="julius-walton" /></p>
+<!-- links to social media accounts -->
+[1]: https://www.instagram.com/shios_os/
+[2]: https://github.com/Julius-Walton
+[3]: https://www.linkedin.com/in/julius-walton-10a2a714a/
+
+<!-- Resources -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Icons: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
