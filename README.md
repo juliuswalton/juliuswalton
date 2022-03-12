@@ -36,12 +36,10 @@ I'm currently working on the [100 days of code challenge](https://www.100daysofc
 
 <!-- icons -->
 [1.2]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 <!-- links to social media accounts -->
 [1]: https://www.instagram.com/shios_os/
-[2]: https://github.com/Julius-Walton
 [3]: https://www.linkedin.com/in/julius-walton-10a2a714a/
 
 <!-- Resources -->
