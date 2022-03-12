@@ -22,7 +22,7 @@ I'm currently working on the [100 days of code challenge](https://www.100daysofc
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julius-Walton&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/Julius-Walton">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=julius-walton&date_format=M%20j%5B%2C%20Y%5D&theme=dark" alt="julius-walton" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=julius-walton&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="julius-walton" />
 </a>
 
 ## ⌨️ Project Showcase
@@ -32,7 +32,6 @@ I'm currently working on the [100 days of code challenge](https://www.100daysofc
 <a href="https://github.com/Julius-Walton/CirdlesWebUI">
   <img align="center" height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=julius-walton&repo=CirdlesWebUI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
- 
 
 <!-- icons -->
 [1.2]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
