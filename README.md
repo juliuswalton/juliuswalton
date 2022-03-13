@@ -26,6 +26,12 @@ I'm currently working on the [100 days of code challenge](https://www.100daysofc
 </a>
 
 ## ⌨️ Project Showcase
+<a href="https://github.com/Julius-Walton/julius-walton.github.io">
+  <img align="center" height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=julius-walton&repo=julius-walton.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Julius-Walton/netflix-clone">
+  <img align="center" height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=julius-walton&repo=netflix-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <a href="https://github.com/Julius-Walton/USACE-Jetties">
   <img align="center" height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=julius-walton&repo=USACE-Jetties&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
