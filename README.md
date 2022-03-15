@@ -22,7 +22,7 @@ I'm currently working on the [100 days of code challenge](https://www.100daysofc
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julius-Walton&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/Julius-Walton">
-  <img align="center" src="" alt="julius-walton" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=julius-walton&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="julius-walton" />
 </a>
 
 ## ⌨️ Project Showcase
