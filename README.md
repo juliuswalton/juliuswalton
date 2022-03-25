@@ -4,7 +4,7 @@
 # Hey there! <img src="https://github.com/Julius-Walton/Julius-Walton/blob/main/wave%20dog.gif?raw=true" width="100px">
 My name is Julius Walton and I'm a software engineer/fullstack enginner. I'm currently living in Columbia, SC and work for Capgemini. You can find me on [![LinkedIn][3.2]][3] or on [![Instagram][1.2]][1]
 
-I'm currently working on the [100 days of code challenge](https://www.100daysofcode.com/) and made a blog about it. [**Come check it out!**](https://julius-walton.github.io/)
+I'm currently working on the [**100 days of code challenge**](https://www.100daysofcode.com/) and made a blog about it. [**Come check it out!**](https://julius-walton.github.io/)
 
 
 ## 👾 Tools & Technologies
