@@ -4,9 +4,6 @@
 # Hey there! <img src="https://github.com/Julius-Walton/Julius-Walton/blob/main/wave%20dog.gif?raw=true" width="100px">
 My name is Julius Walton and I'm a fullstack software engineer. I'm currently living in Columbia, SC. You can find me on [![LinkedIn][3.2]][3] or on [![Instagram][1.2]][1]
 
-I'm currently working on the [**100 days of code challenge**](https://www.100daysofcode.com/) and made a blog about it. [**Come check it out!**](https://julius-walton.github.io/)
-
-
 ## 👾 Tools & Technologies
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
