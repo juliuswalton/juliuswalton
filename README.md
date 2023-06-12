@@ -23,18 +23,19 @@ My name is Julius Walton and I'm a fullstack software engineer for VidMob. I'm c
 </a>
 
 ## ⌨️ Project Showcase
-<a href="https://github.com/Julius-Walton/julius-walton.github.io">
-  <img align="center" height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=julius-walton&repo=julius-walton.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Julius-Walton/netflix-clone">
-  <img align="center" height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=julius-walton&repo=netflix-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 <a href="https://github.com/Julius-Walton/USACE-Jetties">
   <img align="center" height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=julius-walton&repo=USACE-Jetties&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Julius-Walton/CirdlesWebUI">
   <img align="center" height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=julius-walton&repo=CirdlesWebUI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<a href="https://github.com/Julius-Walton/julius-walton.github.io">
+  <img align="center" height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=julius-walton&repo=julius-walton.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Julius-Walton/netflix-clone">
+  <img align="center" height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=julius-walton&repo=netflix-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
 <!-- icons -->
 [1.2]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
