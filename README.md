@@ -2,12 +2,13 @@
 <img src="https://github.com/juliuswalton/juliuswalton/blob/main/banner.svg" alt="Header">
 
 # Hey there! <img src="https://github.com/juliuswalton/juliuswalton/blob/main/wave%20dog.gif?raw=true" width="100px">
-My name is Julius Walton and I'm a fullstack software engineer for MedShift. I'm currently living in Columbia, SC. You can find me on [![LinkedIn][3.2]][3] or on [![Instagram][1.2]][1]
+My name is Julius Walton, and I'm a software engineer. I'm currently living in Columbia, SC. You can find me on [![LinkedIn][3.2]][3] or on [![Instagram][1.2]][1]
 
 ## 👾 Tools & Technologies
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ## 🧮 GitHub Stats
 <a href="https://github.com/juliuswalton">
