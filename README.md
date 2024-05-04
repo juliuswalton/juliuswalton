@@ -18,14 +18,8 @@ My name is Julius Walton and I'm a fullstack software engineer for MedShift. I'm
 <a href="https://github.com/juliuswalton/USACE-Jetties">
   <img align="center" height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=juliuswalton&repo=USACE-Jetties&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/juliuswalton/CirdlesWebUI">
-  <img align="center" height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=juliuswalton&repo=CirdlesWebUI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 <a href="https://github.com/juliuswalton/juliuswalton.github.io">
   <img align="center" height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=juliuswalton&repo=juliuswalton.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/juliuswalton/netflix-clone">
-  <img align="center" height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=juliuswalton&repo=netflix-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
